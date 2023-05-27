@@ -4,9 +4,9 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
-![example branch parameter.](https://github.com/amfchef/skills-test-with-actions/blob/ci/.github/workflows/0-start.yml)
+![example branch parameter.](https://github.com/amfchef/skills-test-with-actions/actions/workflows/0-start.yml/badge.svg)
 # Test with Actions
-
+https://github.com/amfchef/skills-test-with-actions/actions/workflows/0-start.yml/badge.svg
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
 
 <!--
